@@ -99,5 +99,6 @@ export default [
     "Brundlefly",
     "Buffy",
     "Bullseye",
-    "Shaktiman"
+    "Shaktiman",
+    "vikram"
 ]
