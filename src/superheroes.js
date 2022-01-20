@@ -98,5 +98,6 @@ export default [
     "Brainiac 5",
     "Brundlefly",
     "Buffy",
-    "Bullseye"
+    "Bullseye",
+    "Shaktiman"
 ]

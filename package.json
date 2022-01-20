@@ -1,6 +1,6 @@
 {
   "name": "superheroesss-vik",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This library shall provide a list of superherores or a random superhero",
   "main": "src/index.js",
   "type": "module",
