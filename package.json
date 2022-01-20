@@ -1,0 +1,23 @@
+{
+  "name": "superheroes",
+  "version": "1.0.0",
+  "description": "This library shall provide a list of superherores or a random superhero",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikram87in/superheroes.git"
+  },
+  "keywords": [
+    "superheroes"
+  ],
+  "author": "Vikram Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikram87in/superheroes/issues"
+  },
+  "homepage": "https://github.com/vikram87in/superheroes#readme"
+}
